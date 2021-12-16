@@ -1,4 +1,4 @@
-# AdonisJS 5 from scratch
+# AdonisJS 5 from scratch.
 
 Source code for the [AdonisJS 5 from scracth](https://adonismastery.com/courses/adonisjs-5-from-scratch) course project.
 
