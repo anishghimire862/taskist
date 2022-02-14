@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "node ace build",
-    "start": "node ace serve --watch >> app.log",
+    "start": "node ace serve --watch >> /home/cleavr/app.log",
     "lint": "eslint . --ext=.ts"
   },
   "devDependencies": {
