@@ -2,6 +2,7 @@ import { BaseModel, column, belongsTo, BelongsTo } from '@ioc:Adonis/Lucid/Orm'
 import { DateTime } from 'luxon'
 import User from './User'
 
+export default class Task extends BaseModel {
   @column({ isPrimary: true })
   public id: number
 
